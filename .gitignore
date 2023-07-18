@@ -163,3 +163,4 @@ cython_debug/
 # Custom dirs and files
 tokens/
 .pre-commit-config.yaml
+setup.cfg
